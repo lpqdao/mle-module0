@@ -3,6 +3,13 @@
 
 <img src="https://minitorch.github.io/_images/match.png" width="100px">
 
+Parameter:
+- Learning rate: 0.05
+- Epochs: 500
+
+![image](https://user-images.githubusercontent.com/37049175/132739032-7d7b975b-8dd6-418c-930e-2c3e2aa4fa7e.png)
+
+
 * Docs: https://minitorch.github.io/
 
 * Overview: https://minitorch.github.io/module0.html
