@@ -4,6 +4,7 @@
 <img src="https://minitorch.github.io/_images/match.png" width="100px">
 
 Parameter:
+- Size of hidden layers: 2
 - Learning rate: 0.05
 - Epochs: 500
 
